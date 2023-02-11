@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Producto modificado upd",
+    "description": "Product",
+    "price": 18,
+    "thumbnail": "http://example.com",
+    "code": "3e214d",
+    "stock": 45
+  },
+  {
+    "id": 2,
+    "title": "Product titdw ",
+    "description": "Product",
+    "price": 10,
+    "thumbnail": "http://example.com",
+    "code": "3efdewe",
+    "stock": 45
+  },
+  {
+    "id": 3,
+    "title": "Product",
+    "description": "Product",
+    "price": 10,
+    "thumbnail": "http://example.com",
+    "code": "3efdg",
+    "stock": 45
+  },
+  {
+    "id": 4,
+    "title": "Product",
+    "description": "Product",
+    "price": 10,
+    "thumbnail": "http://example.com",
+    "code": "3eg",
+    "stock": 45
+  }
+]
